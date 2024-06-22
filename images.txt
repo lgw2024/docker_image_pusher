@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 fauria/vsftpd
 zhayujie/chatgpt-on-wechat
+tikazyq/artipub:latest
