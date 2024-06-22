@@ -7,3 +7,4 @@ xhofe/alist:latest
 fauria/vsftpd
 zhayujie/chatgpt-on-wechat
 tikazyq/artipub:latest
+mongo:latest
